@@ -1,6 +1,6 @@
 **Nima Sherpa \
 CSCI 3916\
-Assignment 3**
+Assignment 5**
 
 Here is the link to the app: https://react-frontend-sherpa.herokuapp.com/
 
